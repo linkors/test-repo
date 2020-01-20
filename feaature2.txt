@@ -1,1 +1,2 @@
 featurre2 init
+feature 2 baru
